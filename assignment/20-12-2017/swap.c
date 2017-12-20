@@ -15,10 +15,6 @@ temp=a[i];
 a[i]=a[i+1];
 a[i+1]=temp;
 }
-/*else
-{
-a[i]=a[i];
-}*/
 }
 printf("the ans is %s",a);
 }
